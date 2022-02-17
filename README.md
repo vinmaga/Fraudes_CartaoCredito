@@ -1,2 +1,6 @@
 # Fraudes_CC
-  Dados de instituições européias de crédito contendo transações de 2 dias do mês de Setembro de 2013. 284807 transações ao todo, contendo 492 fraudulentas
+Análise de um Banco de Dados disponibilizado por instituições européias de crédito contendo transações de 2 dias do mês de Setembro de 2013. 
+
+Ao todo possui 284807 transações, sendo 492 fraudulentas.
+
+Estimativa de um modelo para prever fraudes.
