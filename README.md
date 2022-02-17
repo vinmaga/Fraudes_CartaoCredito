@@ -1,4 +1,4 @@
-# Fraudes_CC
+# Fraudes_CartaoCredito
 Análise de um Banco de Dados disponibilizado por instituições européias de crédito contendo transações de 2 dias do mês de Setembro de 2013. 
 
 Ao todo possui 284807 transações, sendo 492 fraudulentas.
